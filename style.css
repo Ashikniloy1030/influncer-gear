@@ -6,3 +6,16 @@
 body {
     /* background-color: aqua; */
 }
+
+/* shared style */
+.flex {
+    display: flex;
+}
+
+/* nav bar css style  */
+.nav-bar {
+    max-width: 1200px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
